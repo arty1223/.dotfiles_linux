@@ -1,0 +1,26 @@
+[error]	2025-12-30 20:23:36.417990[Thread 0x00007fa5b22e9c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 20:23:37.190563[Thread 0x00007fa5b22e9c40]:08:23:37 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 20:23:37.192742[Thread 0x00007fa5b22e9c40]:08:23:37 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 20:23:37.194671[Thread 0x00007fa5b22e9c40]:08:23:37 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 20:23:37.234459[Thread 0x00007fa5b22e9c40]:08:23:37 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-30 20:23:41.497782[Thread 0x00007fa5b22e9c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 20:23:41.510737[Thread 0x00007fa5b22e9c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-30 20:23:51.570591[Thread 0x00007fa38219a6c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Operation timed out after 10001 milliseconds with 25967 out of 145282 bytes received
+[Error 28]
+[error]	2025-12-30 20:24:03.526640[Thread 0x00007fa5b22e9c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-30 20:25:25.808072[Thread 0x00007fa5b22e9c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-30 20:25:25.913065[Thread 0x00007fa5b22e9c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 20:25:25.944881[Thread 0x00007fa5b22e9c40]:validate_preset: preset_name 123 PETG, inherit_name Kingroon Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-30 20:25:25.944896[Thread 0x00007fa5b22e9c40]:validate_presets:file_name filamentz.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-30 20:25:25.944902[Thread 0x00007fa5b22e9c40]:validate_preset: preset_name esun PLA+ blue, inherit_name Kingroon Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-30 20:25:25.944904[Thread 0x00007fa5b22e9c40]:validate_presets:file_name filamentz.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-12-30 20:25:25.944906[Thread 0x00007fa5b22e9c40]:validate_preset: preset_name esun EPLA, inherit_name Kingroon Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-30 20:25:25.944908[Thread 0x00007fa5b22e9c40]:validate_presets:file_name filamentz.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-12-30 20:25:25.944909[Thread 0x00007fa5b22e9c40]:validate_preset: preset_name random tpu, inherit_name Kingroon Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-30 20:25:25.944911[Thread 0x00007fa5b22e9c40]:validate_presets:file_name filamentz.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-12-30 20:25:25.944913[Thread 0x00007fa5b22e9c40]:validate_preset: preset_name НИТ PETG, inherit_name Kingroon Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-30 20:25:25.944914[Thread 0x00007fa5b22e9c40]:validate_presets:file_name filamentz.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-12-30 20:25:25.944916[Thread 0x00007fa5b22e9c40]:validate_presets:file_name filamentz.3mf, found self defined presets, count 5
+[warning]	2025-12-30 20:25:58.585281[Thread 0x00007fa5b22e9c40]:08:25:58 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-30 20:29:29.966912[Thread 0x00007fa5b22e9c40]:calc_exclude_triangles:Unable to create exclude triangles

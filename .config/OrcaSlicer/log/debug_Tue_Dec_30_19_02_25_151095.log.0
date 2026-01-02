@@ -1,0 +1,63 @@
+[warning]	2025-12-30 19:02:35.113516[Thread 0x00007f517212dc40]:Failed to load to hints.cereal. File does not exists. /home/arty/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-12-30 19:02:37.354360[Thread 0x00007f517212dc40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 19:02:38.176183[Thread 0x00007f517212dc40]:07:02:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 19:02:38.179082[Thread 0x00007f517212dc40]:07:02:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 19:02:38.181347[Thread 0x00007f517212dc40]:07:02:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 19:02:38.219157[Thread 0x00007f517212dc40]:07:02:38 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-30 19:02:39.311847[Thread 0x00007f517212dc40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 19:02:39.635878[Thread 0x00007f517212dc40]:07:02:39 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-30 19:04:18.646489[Thread 0x00007f517212dc40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 19:04:18.652672[Thread 0x00007f517212dc40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-30 19:04:28.712430[Thread 0x00007f50422926c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Operation timed out after 10000 milliseconds with 23940 out of 145282 bytes received
+[Error 28]
+[error]	2025-12-30 20:06:19.455648[Thread 0x00007f517212dc40]:Decompresing of archive did not retrieve all files. Expected files: 1 Decopressed files: 0
+[warning]	2025-12-30 20:06:41.816593[Thread 0x00007f517212dc40]:import_json_presets Preset already present and is system preset, not loading: Kingroon KP3S 3.0 0.4 nozzle
+[warning]	2025-12-30 20:06:41.816827[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:06:41.817001[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:06:41.817155[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:06:41.817310[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:06:41.817471[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[warning]	2025-12-30 20:06:41.820310[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:06:41.820434[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:06:41.820557[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:06:41.820709[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:06:41.820839[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[warning]	2025-12-30 20:06:44.352789[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:06:44.352918[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:06:44.353033[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:06:44.353154[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:06:44.353278[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[warning]	2025-12-30 20:06:44.355606[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:06:44.355726[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:06:44.355839[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:06:44.355967[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:06:44.356093[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[warning]	2025-12-30 20:06:44.358418[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:06:44.358546[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:06:44.358660[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:06:44.358783[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:06:44.358907[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[warning]	2025-12-30 20:06:44.360935[Thread 0x00007f517212dc40]:import_json_presets Preset already present and is system preset, not loading: Kingroon KP3S PRO V2 0.4 nozzle
+[warning]	2025-12-30 20:06:44.361081[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:06:44.361201[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:06:44.361318[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:06:44.361439[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:06:44.361568[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[warning]	2025-12-30 20:07:24.497395[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:07:24.497504[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:07:24.497586[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:07:24.497660[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:07:24.497731[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[error]	2025-12-30 20:08:16.625232[Thread 0x00007f517212dc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-30 20:08:16.754875[Thread 0x00007f517212dc40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-30 20:08:16.787066[Thread 0x00007f517212dc40]:validate_preset: preset_name esun EPLA, inherit_name Kingroon Generic PLA, can not found preset and inherit in list
+[warning]	2025-12-30 20:08:16.787087[Thread 0x00007f517212dc40]:validate_presets:file_name buttons-v12.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-30 20:08:16.787092[Thread 0x00007f517212dc40]:validate_presets:file_name buttons-v12.3mf, found self defined presets, count 1
+[warning]	2025-12-30 20:09:14.802232[Thread 0x00007f517212dc40]:08:09:14 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-30 20:22:32.265106[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset 123 PETG, just skip
+[warning]	2025-12-30 20:22:32.265574[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun EPLA, just skip
+[warning]	2025-12-30 20:22:32.266072[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset esun PLA+ blue, just skip
+[warning]	2025-12-30 20:22:32.266409[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset random tpu, just skip
+[warning]	2025-12-30 20:22:32.266742[Thread 0x00007f517212dc40]:import_json_presets, can not find inherit preset for user preset НИТ PETG, just skip
+[error]	2025-12-30 20:22:45.070835[Thread 0x00007f517212dc40]:calc_exclude_triangles:Unable to create exclude triangles

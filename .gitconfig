@@ -1,3 +1,9 @@
 [user]
 	email = 65350351+arty1223@users.noreply.github.com
 	name = arty1223
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential

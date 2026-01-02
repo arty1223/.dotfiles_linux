@@ -1,0 +1,19 @@
+{
+    "default_acceleration": "1000",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.30mm Standard @Kingroon KP3S 3.0",
+    "inner_wall_acceleration": "1000",
+    "is_custom_defined": "0",
+    "name": "0.30mm Standard @Kingroon KP3S 3.0 - Copy",
+    "outer_wall_acceleration": "1000",
+    "print_settings_id": "0.30mm Standard @Kingroon KP3S 3.0 - Copy",
+    "skirt_loops": "0",
+    "sparse_infill_pattern": "rectilinear",
+    "support_interface_top_layers": "0",
+    "support_top_z_distance": "0",
+    "support_type": "tree(manual)",
+    "tree_support_wall_count": "2",
+    "version": "2.1.1.0",
+    "wall_loops": "2"
+}
