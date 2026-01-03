@@ -60,6 +60,37 @@
             "O":       ShowOutputs,
             "P":       ShowDecoders,
             "R":       AddRandom,
+            
+            "ж":       CommandMode,
+            "б":       VolumeDown,
+            "ы":       Stop,
+            "ю":       VolumeUp,
+            "<Tab>":   NextTab,
+            "<S-Tab>": PreviousTab,
+            "1":       SwitchToTab("Queue"),
+            "2":       SwitchToTab("Directories"),
+            "3":       SwitchToTab("Artists"),
+            "4":       SwitchToTab("Album Artists"),
+            "5":       SwitchToTab("Albums"),
+            "6":       SwitchToTab("Playlists"),
+            "7":       SwitchToTab("Search"),
+            "й":       Quit,
+            "ю":       NextTrack,       // ">" в русской раскладке
+            "з":       TogglePause,
+            "б":       PreviousTrack,   // "<" в русской раскладке
+            "а":       SeekForward,
+            "я":       ToggleRepeat,
+            "ч":       ToggleRandom,
+            "с":       ToggleConsume,
+            "м":       ToggleSingle,
+            "и":       SeekBack,
+            "ё":       ShowHelp,
+            "г":       Update,
+            "Г":       Rescan,
+            "Ш":       ShowCurrentSongInfo,
+            "Щ":       ShowOutputs,
+            "З":       ShowDecoders,
+            "К":       AddRandom,
         },
         navigation: {
             "k":         Up,
@@ -96,6 +127,41 @@
             "B":         ShowInfo,
             "<C-z>":     ContextMenu(),
             "<C-s>":     Save(kind: Modal(all: false, duplicates_strategy: Ask)),
+            
+            "л":         Up,            // "k" -> "л"
+            "о":         Down,          // "j" -> "о"
+            "р":         Left,          // "h" -> "р"
+            "д":         Right,         // "l" -> "д"
+            "<Up>":      Up,
+            "<Down>":    Down,
+            "<Left>":    Left,
+            "<Right>":   Right,
+            "<C-л>":     PaneUp,        // "<C-k>" -> "<C-л>"
+            "<C-о>":     PaneDown,      // "<C-j>" -> "<C-о>"
+            "<C-р>":     PaneLeft,      // "<C-h>" -> "<C-р>"
+            "<C-д>":     PaneRight,     // "<C-l>" -> "<C-д>"
+            "<C-г>":     UpHalf,        // "<C-u>" -> "<C-г>"
+            "Т":         PreviousResult, // "N" -> "Т"
+            "ф":         Add,           // "a" -> "ф"
+            "Ф":         AddAll,        // "A" -> "Ф"
+            "к":         Rename,        // "r" -> "к"
+            "т":         NextResult,    // "n" -> "т"
+            "п":         Top,           // "g" -> "п"
+            "<Space>":   Select,
+            "<C-Space>": InvertSelection,
+            "П":         Bottom,        // "G" -> "П"
+            "<CR>":      Confirm,
+            "ш":         FocusInput,    // "i" -> "ш"
+            "О":         MoveDown,      // "J" -> "О"
+            "<C-в>":     DownHalf,      // "<C-d>" -> "<C-в>"
+            ".":         EnterSearch,   // "/" -> "." (слеш в русской раскладке)
+            "<C-c>":     Close,
+            "<Esc>":     Close,
+            "Л":         MoveUp,        // "K" -> "Л"
+            "В":         Delete,        // "D" -> "В"
+            "И":         ShowInfo,      // "B" -> "И"
+            "<C-я>":     ContextMenu(), // "<C-z>" -> "<C-я>"
+            "<C-ы>":     Save(kind: Modal(all: false, duplicates_strategy: Ask)), // "<C-s>" -> "<C-ы>"
         },
         queue: {
             "D":       DeleteAll,
@@ -104,6 +170,13 @@
             "d":       Delete,
             "C":       JumpToCurrent,
             "X":       Shuffle,
+            
+            "В":       DeleteAll,       // "D" -> "В"
+            "<CR>":    Play,
+            "ф":       AddToPlaylist,   // "a" -> "ф"
+            "в":       Delete,          // "d" -> "в"
+            "С":       JumpToCurrent,   // "C" -> "С"
+            "Ч":       Shuffle,         // "X" -> "Ч"
         },
     ),
     search: (

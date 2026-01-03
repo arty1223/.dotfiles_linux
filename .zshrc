@@ -107,15 +107,8 @@ alias grep='grep --color=auto'
 alias la='ls -a'
 alias icat='kitten icat'
 
-#export TERM=xterm
-#export LC_ALL=en_US.UTF-8
+export TERM=xterm
+export LC_ALL=en_US.UTF-8
 
-#eval "$(ssh-agent -s)" > /dev/null
-#ssh-add --apple-use-keychain ~/.ssh/id_rsa > /dev/null
-
-#eval SSH_AUTH_SOCK="/tmp/ssh-XXXXXXYybmle/agent.2727"; export SSH_AUTH_SOCK SSH_AGENT_PID=2728; export SSH_AGENT_PID
-#eval $(keychain --eval --quiet id_rsa)
-
-
-
-#fastfetch
+eval SSH_AUTH_SOCK="/tmp/ssh-XXXXXXYybmle/agent.2727"; export SSH_AUTH_SOCK SSH_AGENT_PID=2728; export SSH_AGENT_PID
+eval $(keychain --eval --quiet id_rsa)
