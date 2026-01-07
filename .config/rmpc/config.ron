@@ -154,7 +154,7 @@
             "ш":         FocusInput,    // "i" -> "ш"
             "О":         MoveDown,      // "J" -> "О"
             "<C-в>":     DownHalf,      // "<C-d>" -> "<C-в>"
-            ".":         EnterSearch,   // "/" -> "." (слеш в русской раскладке)
+            // ".":         EnterSearch,   // "/" -> "." (слеш в русской раскладке)
             "<C-c>":     Close,
             "<Esc>":     Close,
             "Л":         MoveUp,        // "K" -> "Л"
